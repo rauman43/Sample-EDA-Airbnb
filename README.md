@@ -1,2 +1,2 @@
-Problem Statement
+ # **Problem Statement**
 Investigate and predict bike sharing demand based on a dataset containing temporal, meteorological and categorical information. Explore the relationships between factors such as date, temperature, humidity and categorical variables like seasons and holidays to develop a model that accurately predicts rented bike counts. Identify key patterns and trends in bike usage to optimize service planning, resource allocation and enhance user experience for the bike sharing service.
